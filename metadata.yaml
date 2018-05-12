@@ -1,0 +1,29 @@
+_repo: The-Homesteaders--A-Novel-of-the-Canadian-West_28579
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stead, Robert J. C.
+    alias: Stead, Robert James Campbell
+    birthdate: 1880
+    deathdate: 1959
+    gutenberg_agent_id: '1145'
+    url: http://www.gutenberg.org/2009/agents/1145
+    wikipedia: http://en.wikipedia.org/wiki/Robert_J.C._Stead
+description: ''
+gutenberg_issued: '2009-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28579'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Farm life -- Manitoba -- Fiction'
+- !lcsh 'Western stories'
+title: 'The Homesteaders: A Novel of the Canadian West'
+url: http://www.gutenberg.org/ebooks/28579
